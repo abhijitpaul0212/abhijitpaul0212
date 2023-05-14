@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on mini POC Data Science assignments.
-- 🌱 I’m currently learning Machine Learning.
+- 🔭 I’m currently working on enhancing my Python knowledge base.
+- 🌱 I’m currently learning Data Science, Machine Learning followed by real time deployments.
 - 👯 I’m looking to collaborate on Data Science/Machine Learning projects.
 
 Link to LinkedIn (www.linkedin.com/in/abhijitpaul0212)
