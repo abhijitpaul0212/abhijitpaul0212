@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on enhancing my Python knowledge base.
 - 🌱 I’m currently learning Data Science, Machine Learning followed by real time deployments.
 - 👯 I’m looking to collaborate on Data Science/Machine Learning projects.
-- ⚡ Tech Stack: Python, MongoDB 
+- ⚡ Tech Stack: Python, MongoDB, MySQL 
 
 Link to LinkedIn (www.linkedin.com/in/abhijitpaul0212)
 
