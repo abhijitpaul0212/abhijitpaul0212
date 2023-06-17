@@ -5,7 +5,8 @@
 - 👯 I’m looking to collaborate on Data Science/Machine Learning projects.
 - ⚡ Tech Stack: Python, MongoDB, MySQL 
 
-Link to LinkedIn (www.linkedin.com/in/abhijitpaul0212)
+LinkTree for bio -- https://linktr.ee/abhijitpaul
+
 
 <!--
 **abhijitpaul0212/abhijitpaul0212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
