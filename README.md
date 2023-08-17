@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on enhancing my Python knowledge base.
-- 🌱 I’m currently exploring Python Full Stack Web Developement, Data Science, Machine Learning with End-2-End Project Lifecycle followed by real time deployments.
+- 🌱 I’m currently exploring Python Full Stack Web Developement & Machine Learning with End-2-End Project Lifecycle followed by real time deployments.
 - 👯 I’m looking to collaborate on Data Science/Machine Learning projects.
 - ⚡ Tech Stack: Python, MongoDB, MySQL, HTML|CSS
 
