@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on enhancing my Python knowledge base.
-- 🌱 I’m currently exploring Python Full Stack Web Developement & Machine Learning with End-2-End Project Lifecycle followed by real time deployments.
+- 🌱 I’m currently learning Python Full Stack Web Developement & Machine Learning with End-2-End Project Lifecycle followed by real time deployments.
+- 🌱 I keep on publishing my knowledge and experience on https://medium.com/@abhijit-paul
 - 👯 I’m looking to collaborate on Data Science/Machine Learning projects.
 - ⚡ Tech Stack: Python, Flask Web Development, MongoDB, MySQL, HTML|CSS
 
