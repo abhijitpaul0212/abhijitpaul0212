@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on exploring Light-Weight Web Development using Flask and its various features and creating mini projects.
 - 🌱 I’m also learning Machine Learning with End-2-End Project Lifecycle followed by CI/CD cloud deployments.
-- 🌍 I keep on publishing my knowledge and learnings via experience on https://medium.com/@abhijit-paul
+- 🌍 I keep creating blogs and share my knowledge and learnings on https://medium.com/@abhijit-paul
 - 👯 I’m looking to work collaborately on Data Science/Machine Learning open source projects.
 - ⚡ Tech Stack: Python, Flask Web Development, MongoDB, MySQL, HTML|CSS
 
