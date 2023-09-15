@@ -1,4 +1,4 @@
-### Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm a SDET - Python & Data Science enthusiast
+### Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm a SDET - Python & Data Science enthusiast
 
 - 🔭 I’m currently working on exploring Light-Weight Web Development using Flask and its various features and creating mini projects.
 - 🌱 I’m also learning Machine Learning with End-2-End Project Lifecycle followed by CI/CD cloud deployments.
