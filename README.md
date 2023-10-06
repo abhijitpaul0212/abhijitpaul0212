@@ -8,7 +8,9 @@
 
 LinkTree for bio -- https://linktr.ee/abhijitpaul
 
-[![Abhijit's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhijitpaul0212&show_icons=true&theme=transparent)](https://github.com/abhijitpaul0212/github-readme-stats)
+[![Abhijit's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhijitpaul0212&show_icons=true&theme=algolia)](https://github.com/abhijitpaul0212/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhijitpaul0212&size_weight=0.5&count_weight=0.5&show_icons=true&theme=algolia)
 
 <!--
 **abhijitpaul0212/abhijitpaul0212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
