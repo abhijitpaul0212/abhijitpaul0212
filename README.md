@@ -1,4 +1,32 @@
-### Hi ![Hi](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm a SDET - Python & Data Science enthusiast
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/abhijitpaul0212">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://abhijit-paul.medium.com">
+    <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=youtube&logoColor=white" alt="Medium Badge"/>
+  </a>
+  <a href="https://twitter.com/abhijit_paul_">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
+<div>
+<br>
+<h1 align="center">
+  Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+<h5 align="center">
+  I'm a SDET - Python & Data Science enthusiast
+</h5>
+</div>
+
+<p align="center">
+  <a href="[https://discord.gg/fPrdqh3Zfu](https://discord.gg/p55RrM2Bkc)" alt="Discord" title="Python & Data Science Community">
+    <img src="https://img.shields.io/discord/1163954618569588797?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/></a>
+</p>
 
 - 🔭 I’m currently working on exploring Light-Weight Web Development using Flask and its various features and creating mini projects.
 - 🌱 I’m also learning Machine Learning with End-2-End Project Lifecycle followed by CI/CD cloud deployments.
