@@ -24,7 +24,7 @@
 </div>
 
 <p align="center">
-  <a href="[https://discord.gg/fPrdqh3Zfu](https://discord.gg/p55RrM2Bkc)" alt="Discord" title="Python & Data Science Community">
+  <a href="https://discord.gg/p55RrM2Bkc" alt="Discord" title="Python & Data Science Community">
     <img src="https://img.shields.io/discord/1163954618569588797?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/></a>
 </p>
 
