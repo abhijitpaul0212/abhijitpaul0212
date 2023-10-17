@@ -8,6 +8,8 @@
 
 LinkTree for bio -- https://linktr.ee/abhijitpaul
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=abhijitpaul0212)](https://git.io/streak-stats)
+
 [![Abhijit's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhijitpaul0212&show_icons=true&theme=algolia)](https://github.com/abhijitpaul0212/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhijitpaul0212&size_weight=0.5&count_weight=0.5&show_icons=true&theme=algolia)
