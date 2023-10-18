@@ -31,21 +31,21 @@ jobs:
         name: Check out current commit
       - uses: suisei-cn/actions-download-file@v1.3.0
         id: stats1
-        name: Download the stats file
+        name: Download Github streak file
         with:
-          url: "https://github-readme-stats.vercel.app/api?username=abhijitpaul0212" # Put your own vercel instance URL here
+          url: "https://github-readme-streak-stats-umber.vercel.app?user=abhijitpaul0212&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" # Put your own vercel instance URL here
           target: grs
           filename: stats.svg # Need to have the file name prepared as svg
       - uses: suisei-cn/actions-download-file@v1.3.0
         id: stats2
-        name: Download the stats file
+        name: Download most used language file
         with:
           url: "https://github-readme-stats.vercel.app/api/top-langs/?username=abhijitpaul0212&layout=donut-vertical" # Put your own vercel instance URL here
           target: grs
           filename: stats.svg # Need to have the file name prepared as svg
       - uses: suisei-cn/actions-download-file@v1.3.0
         id: stats3
-        name: Download the stats file
+        name: Download the Github stats file
         with:
           url: "https://github-readme-stats.vercel.app/api?username=abhijitpaul0212&show_icons=true&theme=algolia" # Put your own vercel instance URL here
           target: grs
