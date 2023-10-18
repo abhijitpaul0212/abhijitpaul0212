@@ -35,7 +35,7 @@
 - 👯 I’m looking to work collaborately on Data Science/Machine Learning open source projects.
 - ⚡ Tech Stack: Python, Flask Web Development, MongoDB, MySQL, HTML|CSS
 
-[![Personal](https://wakatime.com/badge/user/018b43cb-0614-4d68-9d85-6ef192b11745.svg)](https://wakatime.com/@abhijitpaul)
+[![Wakatime](https://wakatime.com/badge/user/018b43cb-0614-4d68-9d85-6ef192b11745.svg)](https://wakatime.com/@abhijitpaul)
 
 [![GitHub Streak](https://github-readme-streak-stats-umber.vercel.app?user=abhijitpaul0212&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
@@ -43,7 +43,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhijitpaul0212&layout=donut-vertical&card_width=350&theme=algolia)](https://github.com/abhijitpaul0212/github-readme-stats)
 
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=abhijitpaul&theme=algolia)](https://github.com/abhijitpaul0212/github-readme-stats)
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=abhijitpaul&theme=algolia)](https://github.com/abhijitpaul0212/github-readme-stats)
 
 
 <!--
