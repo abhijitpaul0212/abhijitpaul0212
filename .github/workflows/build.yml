@@ -43,6 +43,13 @@ jobs:
           url: "https://github-readme-stats.vercel.app/api/top-langs/?username=abhijitpaul0212&layout=donut-vertical" # Put your own vercel instance URL here
           target: grs
           filename: stats.svg # Need to have the file name prepared as svg
+      - uses: suisei-cn/actions-download-file@v1.3.0
+        id: stats3
+        name: Download the stats file
+        with:
+          url: "https://github-readme-stats.vercel.app/api?username=abhijitpaul0212&show_icons=true&theme=algolia" # Put your own vercel instance URL here
+          target: grs
+          filename: stats.svg # Need to have the file name prepared as svg
       - uses: actions/upload-artifact@master
         with:
           name: stats
