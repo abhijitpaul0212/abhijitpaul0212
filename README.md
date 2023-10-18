@@ -28,20 +28,23 @@
   <a href="https://discord.gg/p55RrM2Bkc" alt="Discord" title="Python & Data Science Community">
     <img src="https://img.shields.io/discord/1163954618569588797?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/></a>
 </p>
-
+  
 - 🔭 I’m currently working on exploring Light-Weight Web Development using Flask and its various features and creating mini projects.
 - 🌱 I’m also learning Machine Learning with End-2-End Project Lifecycle followed by CI/CD cloud deployments.
 - 🌍 I keep creating blogs and share my knowledge and learnings on https://medium.com/@abhijit-paul
 - 👯 I’m looking to work collaborately on Data Science/Machine Learning open source projects.
 - ⚡ Tech Stack: Python, Flask Web Development, MongoDB, MySQL, HTML|CSS
 
-LinkTree for bio -- https://linktr.ee/abhijitpaul
+[![Personal](https://wakatime.com/badge/user/018b43cb-0614-4d68-9d85-6ef192b11745.svg)](https://wakatime.com/@abhijitpaul)
 
-[![My GitHub Streak](https://github-readme-streak-stats-umber.vercel.app?user=abhijitpaul0212&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-umber.vercel.app?user=abhijitpaul0212&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhijitpaul0212&show_icons=true&theme=algolia)](https://github.com/abhijitpaul0212/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhijitpaul0212&show_icons=true&theme=algolia)](https://github.com/abhijitpaul0212/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhijitpaul0212&layout=donut-vertical)](https://github.com/abhijitpaul0212/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhijitpaul0212&layout=donut-vertical&card_width=350&theme=algolia)](https://github.com/abhijitpaul0212/github-readme-stats)
+
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=abhijitpaul&theme=algolia)](https://github.com/abhijitpaul0212/github-readme-stats)
+
 
 <!--
 **abhijitpaul0212/abhijitpaul0212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
