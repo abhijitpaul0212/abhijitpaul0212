@@ -43,8 +43,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhijitpaul0212&layout=donut-vertical&card_width=350&theme=algolia)](https://github.com/abhijitpaul0212/github-readme-stats)
 
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=abhijitpaul&theme=algolia)](https://github.com/abhijitpaul0212/github-readme-stats)
-
 
 <!--
 **abhijitpaul0212/abhijitpaul0212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
