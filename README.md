@@ -8,8 +8,9 @@
   <a href="https://abhijit-paul.medium.com">
     <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=youtube&logoColor=white" alt="Medium Badge"/>
   </a>
-  <a href="https://twitter.com/abhijit_paul_">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="mailto:abhijitpaul0212@gmail.com?subject=Hello
+&body=">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
 
@@ -38,7 +39,7 @@ LinkTree for bio -- https://linktr.ee/abhijitpaul
 
 [![My GitHub Streak](https://github-readme-streak-stats-umber.vercel.app?user=abhijitpaul0212&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-[![Abhijit's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhijitpaul0212&show_icons=true&theme=algolia)](https://github.com/abhijitpaul0212/github-readme-stats)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhijitpaul0212&show_icons=true&theme=algolia)](https://github.com/abhijitpaul0212/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhijitpaul0212&layout=donut-vertical)](https://github.com/abhijitpaul0212/github-readme-stats)
 
