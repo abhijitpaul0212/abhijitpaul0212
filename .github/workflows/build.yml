@@ -52,7 +52,7 @@ jobs:
           filename: stats.svg # Need to have the file name prepared as svg
       - uses: actions/upload-artifact@master
         with:
-          name: stats4
+          name: stats
           path: grs
   push:
     permissions: write-all
