@@ -42,11 +42,13 @@
   </ul>
 </p>
 <br/>
-<p align="center">
+<p>
   <a href="https://git.io/streak-stats" alt="GitHub Streak" title="GitHub Streak">
       <img src="https://github-readme-streak-stats-umber.vercel.app?user=abhijitpaul0212&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D"/></a>
-  <a href="https://github.com/abhijitpaul0212/github-readme-stats" alt="GitHub Stats" title="GitHub Stats">
+    <a href="https://github.com/abhijitpaul0212/github-readme-stats" alt="GitHub Stats" title="GitHub Stats">
     <img src="https://github-readme-stats.vercel.app/api?username=abhijitpaul0212&show_icons=true&theme=algolia"/></a>
+</p>
+<p align="center">
   <a href="https://github.com/abhijitpaul0212/github-readme-stats" alt="Top Used Langs" title="Top Used Langs">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijitpaul0212&layout=donut-vertical&card_width=350&theme=algolia"/></a>
 </p>
