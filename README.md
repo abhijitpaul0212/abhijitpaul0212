@@ -25,23 +25,31 @@
 </div>
 
 <p align="center">
-  <a href="https://discord.gg/p55RrM2Bkc" alt="Discord" title="Python & Data Science Community">
-    <img src="https://img.shields.io/discord/1163954618569588797?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://discord.gg/p55RrM2Bkc" alt="Discord" title="Discord">
+    <img src="https://img.shields.io/discord/1163954618569588797?color=7289DA&logo=discord&logoColor=white&style=for-the-badge" width="120px"/></a>
+  <a href="https://wakatime.com/@abhijitpaul" alt="Wakatime" title="Wakatime">
+   <img src="https://wakatime.com/badge/user/018b43cb-0614-4d68-9d85-6ef192b11745.svg" width="130px"/></a>
 </p>
-  
-- 🔭 I’m currently working on exploring Light-Weight Web Development using Flask and its various features and creating mini projects.
-- 🌱 I’m also learning Machine Learning with End-2-End Project Lifecycle followed by CI/CD cloud deployments.
-- 🌍 I keep creating blogs and share my knowledge and learnings on https://medium.com/@abhijit-paul
-- 👯 I’m looking to work collaborately on Data Science/Machine Learning open source projects.
-- ⚡ Tech Stack: Python, Flask Web Development, MongoDB, MySQL, HTML|CSS
 
-[![Wakatime](https://wakatime.com/badge/user/018b43cb-0614-4d68-9d85-6ef192b11745.svg)](https://wakatime.com/@abhijitpaul)
 
-[![GitHub Streak](https://github-readme-streak-stats-umber.vercel.app?user=abhijitpaul0212&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhijitpaul0212&show_icons=true&theme=algolia)](https://github.com/abhijitpaul0212/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhijitpaul0212&layout=donut-vertical&card_width=350&theme=algolia)](https://github.com/abhijitpaul0212/github-readme-stats)
+<p align="center">
+  <ul>
+    <li>🔭 I’m currently working on exploring Light-Weight Web Development using Flask and its various features and creating mini projects.</li>
+    <li>🌱 I’m also learning Machine Learning with End-2-End Project Lifecycle followed by CI/CD cloud deployments.</li>
+    <li>🌍 I keep creating blogs and share my knowledge and learnings on https://medium.com/@abhijit-paul</li>
+    <li>👯 I’m looking to work collaborately on Data Science/Machine Learning open source projects.</li>
+    <li>⚡ Tech Stack: Python, Flask Web Development, MongoDB, MySQL, HTML|CSS</li>
+  </ul>
+</p>
+<br/>
+<p align="center">
+  <a href="https://git.io/streak-stats" alt="GitHub Streak" title="GitHub Streak">
+      <img src="https://github-readme-streak-stats-umber.vercel.app?user=abhijitpaul0212&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D"/></a>
+  <a href="https://github.com/abhijitpaul0212/github-readme-stats" alt="GitHub Stats" title="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=abhijitpaul0212&show_icons=true&theme=algolia"/></a>
+  <a href="https://github.com/abhijitpaul0212/github-readme-stats" alt="Top Used Langs" title="Top Used Langs">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijitpaul0212&layout=donut-vertical&card_width=350&theme=algolia"/></a>
+</p>
 
 
 <!--
