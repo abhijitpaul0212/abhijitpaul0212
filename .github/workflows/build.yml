@@ -50,20 +50,6 @@ jobs:
           url: "https://github-readme-stats.vercel.app/api?username=abhijitpaul0212&show_icons=true&theme=algolia" # Put your own vercel instance URL here
           target: grs
           filename: stats.svg # Need to have the file name prepared as svg
-      - uses: suisei-cn/actions-download-file@v1.3.0
-        id: stats4
-        name: Download the Wakatime total hours
-        with:
-          url: "https://wakatime.com/badge/user/018b43cb-0614-4d68-9d85-6ef192b11745.svg&theme=algolia" # Put your own vercel instance URL here
-          target: grs
-          filename: stats.svg # Need to have the file name prepared as svg
-      - uses: suisei-cn/actions-download-file@v1.3.0
-        id: stats5
-        name: Download the Wakatime stats file
-        with:
-          url: "https://github-readme-stats.vercel.app/api/wakatime?username=abhijitpaul&theme=algolia" # Put your own vercel instance URL here
-          target: grs
-          filename: stats.svg # Need to have the file name prepared as svg
       - uses: actions/upload-artifact@master
         with:
           name: stats
