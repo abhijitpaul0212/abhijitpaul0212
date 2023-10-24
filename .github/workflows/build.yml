@@ -29,7 +29,7 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v3
         name: Check out current commit
-      - uses: abhijitpaul0212/github-activity-readme@master
+      - uses: abhijitpaul0212/abhijitpaul0212@master
       - uses: lowlighter/metrics@v3.34
       - uses: suisei-cn/actions-download-file@v1.3.0
         id: stats1
