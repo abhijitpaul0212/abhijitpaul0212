@@ -71,3 +71,8 @@ jobs:
           build_dir: grs
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: GitHub - Activity - Readme
+        uses: jamesgeorge007/github-activity-readme@v0.4.0
+      - name: Metrics embed
+        uses: lowlighter/metrics@v3.34
+            
