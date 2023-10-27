@@ -38,7 +38,7 @@
     <li>🌱 I’m also learning Machine Learning with End-2-End Project Lifecycle followed by CI/CD cloud deployments.</li>
     <li>🌍 I keep creating blogs and share my knowledge and learnings on https://medium.com/@abhijit-paul</li>
     <li>👯 I’m looking to work collaborately on Data Science/Machine Learning open source projects.</li>
-    <li>⚡ Tech Stack: Python, Flask Web Development, MongoDB, MySQL, HTML|CSS</li>
+    <li>⚡ Tech Stack: Python, Flask & Django Web Development, MongoDB, MySQL, HTML|CSS</li>
   </ul>
 </p>
 <br/>
