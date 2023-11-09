@@ -39,6 +39,7 @@
     <li>🌍 I keep creating blogs and share my knowledge and learnings on https://medium.com/@abhijit-paul</li>
     <li>👯 I’m looking to work collaborately on Data Science/Machine Learning open source projects.</li>
     <li>⚡ I like to talk about: Python, Flask & Django Web Development, Statistics, Machine Learning algorithms, MongoDB, MySQL, HTML | CSS </li>
+    <li>📫 How to reach me: <a href="mailto:abhijitpaul0212@gmail.com?subject=Hello&body=">abhijitpaul0212@gmail.com</a></li>
   </ul>
 </p>
 <br/>
