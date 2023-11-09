@@ -19,9 +19,9 @@
 <h1 align="center">
   Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<h5 align="center">
-  I'm a SDET - Python & Data Science enthusiast
-</h5>
+<h4 align="center">
+  I'm a Senior SDET-Python & Data Science enthusiast
+</h4>
 </div>
 
 <p align="center">
