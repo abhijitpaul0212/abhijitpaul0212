@@ -40,6 +40,8 @@
     <li>👯 I’m looking to work collaborately on Data Science/Machine Learning open source projects.</li>
     <li>⚡ I like to talk about: Python, Flask & Django Web Development, Statistics, Machine Learning algorithms, MongoDB, MySQL, HTML | CSS </li>
     <li>📫 How to reach me: <a href="mailto:abhijitpaul0212@gmail.com?subject=Hello&body=">abhijitpaul0212@gmail.com</a></li>
+    <li>💬 Skype me @<a href="https://join.skype.com/invite/tiuQO1Tn8aYH">abhijitpaul</a></li>
+ </li>
   </ul>
 </p>
 <br/>
