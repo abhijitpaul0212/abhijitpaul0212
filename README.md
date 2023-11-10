@@ -38,7 +38,7 @@
     <li>🌱 I’m also learning Machine Learning with End-2-End Project Lifecycle followed by CI/CD cloud deployments.</li>
     <li>🌍 I keep creating blogs and share my knowledge and learnings on https://medium.com/@abhijit-paul</li>
     <li>👯 I’m looking to work collaborately on Data Science/Machine Learning open source projects.</li>
-    <li>⚡ I like to talk about: Python, Flask & Django Web Development, Statistics, Machine Learning algorithms, MongoDB, MySQL, HTML | CSS </li>
+    <li>⚡ I like to talk about: Python, Flask & Django Web Development, Statistics, Machine Learning algorithms, MongoDB, MySQL</li>
     <li>📫 How to reach me: <a href="mailto:abhijitpaul0212@gmail.com?subject=Hello&body=">abhijitpaul0212@gmail.com</a></li>
     <li>💬 Skype me @<a href="https://join.skype.com/invite/tiuQO1Tn8aYH">abhijitpaul</a></li>
  </li>
