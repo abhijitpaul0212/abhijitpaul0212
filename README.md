@@ -35,12 +35,13 @@
 <p align="center">
   <ul>
     <li>🌱 I’m currently learning different types of Machine Learning Algorithms and working on creating End-2-End ML Project with CI/CD pipelines and AWS cloud deployments.</li>
+    <li></li>
     <li>🔭 I've worked on creating few End-2-End Web Development projects using Flask and Jinja2 templates.</li>
     <li>🌍 I do keep creating blogs and share my knowledge and learnings on https://medium.com/@abhijit-paul</li>
     <li>👯 I’m looking to work collaborately on Data Science/Machine Learning open source projects.</li>
     <li>⚡ Ask me about Python, Flask Web Development, Statistics, Machine Learning algorithms, Exploratory Data Analysis, AWS Project Deployment, MongoDB, MySQL</li>    
     <li>📫 How to reach me: <a href="mailto:abhijitpaul0212@gmail.com?subject=Hello&body=">abhijitpaul0212@gmail.com</a></li>
-    <li>💬 I'm available at @<a href="https://linktr.ee/abhijitpaul">abhijitpaul</a></li>
+    <li>💬 My portfolio is available at @<a href="https://linktr.ee/abhijitpaul">linktree</a></li>
  </li>
   </ul>
 </p>
