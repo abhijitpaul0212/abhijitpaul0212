@@ -29,8 +29,9 @@
     <img src="https://img.shields.io/discord/1163954618569588797?color=7289DA&logo=discord&logoColor=white&style=for-the-badge" width="120px"/></a>
   <a href="https://wakatime.com/@abhijitpaul" alt="Wakatime" title="Wakatime">
    <img src="https://wakatime.com/badge/user/018b43cb-0614-4d68-9d85-6ef192b11745.svg" width="130px"/></a>
+  <a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=abhijitpaul0212&style=for-the-badge"></a>
 </p>
-
 
 <p align="center">
   <ul>
