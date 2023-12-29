@@ -30,7 +30,7 @@
   <a href="https://wakatime.com/@abhijitpaul" alt="Wakatime" title="Wakatime">
    <img src="https://wakatime.com/badge/user/018b43cb-0614-4d68-9d85-6ef192b11745.svg" width="130px"/></a>
   <a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=abhijitpaul0212&style=for-the-badge"></a>
+    <img src="https://komarev.com/ghpvc/?username=abhijitpaul0212&style=for-the-badge" width="130px"></a>
 </p>
 
 <p align="center">
