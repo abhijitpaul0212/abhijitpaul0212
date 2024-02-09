@@ -40,8 +40,7 @@
     <li>🌍 I do keep creating blogs and share my knowledge and learnings on Medium</li>
     <li>👯 I’m looking to work collaborately on Data Science/Machine Learning open source projects.</li>
     <li>⚡ Ask me about Python, Flask Web Development, Statistics, Machine Learning algorithms, Exploratory Data Analysis, AWS Project Deployment, MongoDB, MySQL</li>    
-    <li>📫 How to reach me: <a href="mailto:abhijitpaul0212@gmail.com?subject=Hello&body=">abhijitpaul0212@gmail.com</a></li>
-    <li>💬 My portfolio is available at @<a href="https://abhijit-datascience-portfolio.netlify.app">DataScience Portfolio</a></li>
+    <li>💬 <a href="https://abhijit-datascience-portfolio.netlify.app">Let's connect</a></li>
  </li>
   </ul>
 </p>
