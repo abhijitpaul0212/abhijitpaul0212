@@ -40,7 +40,7 @@
     <li>🌍 I do keep creating blogs and share my knowledge and learnings on Medium</li>
     <li>👯 I’m looking to work collaborately on Data Science/Machine Learning open source projects.</li>
     <li>⚡ Ask me about Python, Flask Web Development, Statistics, Machine Learning algorithms, Exploratory Data Analysis, AWS Project Deployment, MongoDB, MySQL</li>    
-    <li>💬<a href="[https://topmate.io/abhijitpaul](https://topmate.io/abhijitpaul)"> Let's connect </a>☕️</li>
+    <li>💬<a href="https://topmate.io/abhijitpaul"> Let's connect </a>☕️</li>
  </li>
   </ul>
 </p>
